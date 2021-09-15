@@ -1,6 +1,8 @@
 <h1 align="center">< Hello 👋 there, I'm Siddhant Giri /></h1>
 <h3 align="center">{ A passionate UX/UI Designer | Frontend Developer | Freelancer from India. }</h3>
 
+ <img align="right" alt="Coding" style="border-radius : 50%" width="350" height="350" src="https://mir-s3-cdn-cf.behance.net/user/276/6c566a404649379.606bde2946ce3.jpg">
+ 
 - 🔭 I’m currently working on **UX/UI Designing & Frontend Developer.**
 
 - 🌱 I’m currently learning **UX/UI Designing & Frontend Developer.**
