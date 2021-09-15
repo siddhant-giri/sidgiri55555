@@ -1,7 +1,7 @@
 <h1 align="center">< Hello 👋 there, I'm Siddhant Giri /></h1>
 <h3 align="center">{ A passionate UX/UI Designer | Frontend Developer | Freelancer from India. }</h3>
 
-<img align="right" alt="Coding" style="border-radius : 50%" width="350" height="350" src="https://image.freepik.com/free-vector/app-development-illustration_23-2148741543.jpg">
+<img align="right" alt="Coding" style="border-radius : 50%" width="350" height="350" src="https://studio.uxpincdn.com/studio/wp-content/uploads/2021/06/Tips-for-Designers-Interested-in-Advanced-UX-UI-1024x512.png">
 
 - 🔭 I’m currently working on **UX/UI Designing & Frontend Developer.**
 
